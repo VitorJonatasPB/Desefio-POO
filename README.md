@@ -87,4 +87,4 @@ Cada tipo de conteúdo calcula XP de forma diferente.
 Este projeto foi desenvolvido para fins de estudo, mas melhorias são sempre bem-vindas. Sinta-se à vontade para abrir issues, enviar PRs ou sugerir novas funcionalidades.
 
 ## 👨‍💻 Créditos
-Desafio inspirado no projeto original da DIO, criado por [Camila](https://www.linkedin.com/in/cami-la/). Implementação, melhorias e personalização por [Vitor Jônatas])www.linkedin.com/in/vitor-jonatas).
+Desafio inspirado no projeto original da DIO, criado por [Camila](https://www.linkedin.com/in/cami-la/). Implementação, melhorias e personalização por [Vitor Jônatas](www.linkedin.com/in/vitor-jonatas).
