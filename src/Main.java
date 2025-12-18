@@ -41,7 +41,7 @@ public class Main {
         System.out.println("-");
         System.out.println("Conteúdos Incritos" + devCamila.getConteudosInscritos());
         System.out.println("Conteúdos Concluidos" + devCamila.getConteudosConcluidos());
-        System.out.println("XP: " + devCamila.calcularTotalXp());
+        System.out.println("Nível: " + devCamila.getNivel() +" -> XP: " + devCamila.calcularTotalXp());
 
         System.out.println("================================");
         
@@ -55,6 +55,6 @@ public class Main {
         System.out.println("-");
         System.out.println("Conteúdos Incritos" + devJoao.getConteudosInscritos());
         System.out.println("Conteúdos Concluidos" + devJoao.getConteudosConcluidos());
-        System.out.println("XP: " + devJoao.calcularTotalXp());
+        System.out.println("Nível: " + devJoao.getNivel() +" -> XP: " + devJoao.calcularTotalXp());
     }
 }

@@ -30,6 +30,10 @@ public class Dev {
                 .sum();
     }
 
+    public int getNivel() {
+        return NivelService.calcularNivel(calcularTotalXp());
+    }
+    
     public String getNome() {
         return nome;
     }
